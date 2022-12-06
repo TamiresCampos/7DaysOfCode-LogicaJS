@@ -17,3 +17,4 @@
 ## Atividade do dia:  
 - **Dia 1:** Operações Booleanas
 - **Dia 2:** Variáveis
+- **Dia 3:** Fluxo de decisão
